@@ -1,3 +1,6 @@
+
+##Mainly inspired from http://kvfrans.com/simple-algoritms-for-solving-cartpole/
+
 import gym
 import numpy as np
 
