@@ -7,6 +7,7 @@ This repo is for the final project of Artificial Intelligence class. We expect t
 
 * Introduction to reinforcement learning and OpenAI Gym    https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym
 
+* gym documents  https://gym.openai.com/docs/
 
 ## TODO lists
 * a lot of stuff....
