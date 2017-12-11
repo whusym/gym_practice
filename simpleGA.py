@@ -1,5 +1,5 @@
 ## Using Genetic Algorithm to play Bowling in Atari environment (OpenAI Gym)
-## Codes partly benefited from https://gist.github.com/PuZZleDucK/4a6b877964a0e67648b88bee05eeebf2#file-atari-7-genetic-py
+## Code partly benefited from https://gist.github.com/PuZZleDucK/4a6b877964a0e67648b88bee05eeebf2#file-atari-7-genetic-py
 
 
 from __future__ import print_function
