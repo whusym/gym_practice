@@ -102,7 +102,7 @@ if __name__ == '__main__':
             mutant = mutate_single (survivors_cross[child % len(survivors_cross)])
             annealing_time = 0
             while annealing_time <= ((generations - gen) // 8):
-                #20 is arbitrarily selected here. Since in total there are 1000 generations. 20 means there are 49 single mutations in the beginning.
+                #8 is arbitrarily selected here. Since in total there are 1000 generations. 8 means there are 125 single mutations in the beginning.
                 #As time goes, the repetitions of single mutations become fewer.
                 mutant = mutate_single (survivors_cross[child % len(survivors_cross)])
                 annealing_time += 1
