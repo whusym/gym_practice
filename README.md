@@ -10,4 +10,5 @@ This repo is for the final project of Artificial Intelligence class. We expect t
 * gym documents  https://gym.openai.com/docs/
 
 ## TODO lists
-* a lot of stuff....
+* More experiments with Genetic Algorithm on different Gym environment
+
