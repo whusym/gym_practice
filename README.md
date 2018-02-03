@@ -15,9 +15,11 @@ This repo is for the final project of Artificial Intelligence class.
 ## Performance
 Here are the performance of my Genetic Algorithm in the Bowling environment:
 Average Scores of Survivors in 280 Generations:
-![Image of Average Scores of Survivors in 280 Generations](performance1.png)
+
+![Image of Average Scores of Survivors in 280 Generations](performance2.png)
+
 Top Scores in 280 Generations:
-![Image of Top Scores of Survivors in 280 Generations](performance2.png)
+![Image of Top Scores of Survivors in 280 Generations](performance1.png)
 
 The average Bowling score of 20 survivors reaches a plateau after about 200 generations, and the score fluctuates around 160. In comparison, the average score of a human gamer scores around 154.8, and the score from DQN by Google DeepMind is only 42.4 (± 88). (See "Human-level control through deep reinforcement learning”, https://www.nature.com/articles/nature14236.)
 
