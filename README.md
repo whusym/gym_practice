@@ -1,6 +1,6 @@
 # gym_practice
 
-This repo is for the final project of Artificial Intelligence class. 
+This repo is for the final project of Artificial Intelligence class.
 
 ## How to run
 
@@ -12,7 +12,14 @@ This repo is for the final project of Artificial Intelligence class.
 * Introduction to reinforcement learning and OpenAI Gym    https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym
 
 * gym documents  https://gym.openai.com/docs/
+## Performance
+Here are the performance of my Genetic Algorithm in the Bowling environment:
+Average Scores of Survivors in 280 Generations:
+![Image of Average Scores of Survivors in 280 Generations]
+[performance1.png]
+Top Scores in 280 Generations:
+![Image of Top Scores of Survivors in 280 Generations]
+[performance2.png]
 
 ## TODO lists
 * More experiments with Genetic Algorithm on different Gym environment
-
